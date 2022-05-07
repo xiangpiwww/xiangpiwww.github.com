@@ -1,0 +1,113 @@
+li {
+	list-style: none; 
+}
+
+img {
+  width: 150px;
+  height: 150px;
+}
+
+button {
+  background-color: white;
+  width: 100px;
+  height: 30px;
+  margin: -1px;
+}
+
+span {
+  text-align: center;
+}
+
+.u-big {
+  position: absolute;
+  top: 140px;
+  left: 255px;
+}
+
+.u-big>img {
+  width: 400px;
+  height: 400px;
+}
+
+.m-tl {
+  font-size: 0px;
+}
+
+.m-first {
+  width: 880px;
+  height: 600px;
+  border: 1px solid black;
+}
+
+.m-box {
+  width: 850px;
+  height: 340px;
+  padding-top: 20px;
+  padding-left: 15px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.m-third {
+  display: flex;
+  flex-direction: column;
+  width: 880px;
+  height: 600px;
+  border: 1px solid black;
+}
+
+.m-tbox {
+  width: 850px;
+  height: 340px;
+  padding-top: 20px;
+  padding-left: 15px;
+  display: flex;
+  flex-direction: column;
+  /*justify-content: space-around;*/
+}
+
+.u-line {
+  height: 30px;
+  padding-top: 30px;
+  padding-left: 10px;
+  float: left;
+}
+
+.u-line span {
+  display: block;
+  float: left;
+  width: 30px;
+  height: 30px;
+  margin: -1px;
+  border: 1px solid black;
+}
+
+.u-line>.long {
+  display: block;
+  float: left;
+  width: 737px;
+  height: 30px;
+  margin: -1px;
+  border: 1px solid black;
+}
+
+.u-line  button{
+  display: block;
+  float: left;
+  width: 75px;
+  height: 32px;
+}
+
+.add {
+  width: 850px;
+  padding-top: 80px;
+  text-align: right;
+}
+
+.add button {
+  width: 150px;
+  color: white;
+  background-color: green;
+}

@@ -1,0 +1,203 @@
+@charset "UTF-8";
+
+.image {
+  width: 608px;
+  height: 881px;
+  position: absolute;
+  opacity: 0.4;
+  z-index: -1;
+}
+
+.orange {
+  color: #ff9a03;
+}
+
+.taobao {
+  box-sizing: border-box;
+  width: 608px;
+  height: 881px;
+  border: 13px solid #c1bbbb1c;
+}
+
+.hd {
+  width: 532px;
+  height: 112px;
+  padding: 2 30px;
+  text-align: center;
+}
+
+.hd>li {
+  list-style-type: none;
+  float: left;
+  padding: 16px 30px;
+}
+
+.hd>li>label {
+  display: block;
+  color: #ff9a03;
+  font-weight: bold;
+  font-size: 28px;
+}
+
+.hd>li>span {
+  display: block;
+  font-size: 24px;
+}
+
+.zhuanqu {
+  background-color: #f5dcb7;
+  color: #ff9a03;
+  height: 48px;
+}
+
+.zhuanqu-word {
+  float: left;
+  padding-top: 8px;
+  padding-left: 164px;
+  list-style-type: none;
+  text-align: center;
+  font-size: 24px;
+  
+}
+
+.trangle {
+  list-style-type: none;
+  height: 48px;
+}
+
+.trangle>div {
+  display: block;
+  height: 0;
+  width: 0;
+  border: solid 10px;
+  border-color: transparent transparent transparent #ff9a03;
+  margin: 0px 463px;
+}
+
+.log {
+  padding-top: 34px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 22px;
+  font-size: 24px;
+}
+
+.log>span {
+  padding: 0 26.5px;
+}
+
+.log>div {
+  width: 64px;
+  height: 4px;
+  margin-left: 235px;
+  margin-top: 5px;
+  background-color: #ff9a03;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.advertisement {
+  font-size: 23px;
+}
+
+.advertisement>li {
+  list-style-type: none;
+  padding: 9.5px 25px;
+}
+
+.advertisement>li>span {
+  padding-right: 62px;
+  word-spacing: 31px;
+}
+
+.case-top {
+  width: 144px;
+  height: 2px;
+  margin-left: 1px;
+  margin-top: 26px;
+  background-color: #ff9a03;
+}
+
+.log2 {
+  font-size: 24px;
+  padding-top: 88px;
+  padding-left: 36px;
+}
+
+.span1 {
+  padding-right: 77px;
+  color: #ff9a03;
+}
+
+.span2 {
+  padding-right: 77px;
+}
+
+.span3 {
+  padding-left: 15px;
+}
+
+.span4 {
+  padding-left: 90px;
+}
+
+.recharge {
+  font-size: 24px;
+  padding-top: 50px;
+  padding-left: 13px;
+}
+
+.recharge>span {
+  padding-left: 40px;
+}
+
+.login {
+  box-sizing: border-box;
+  width: 382px;
+  height: 103px;
+  border: 3px solid #5651511c;
+  margin-left: 32px;
+  margin-top: 20px;
+  font-size: 24px;
+
+}
+
+.login>li {
+  list-style-type: none;
+  padding: 9.5px 9px;
+}
+
+.price {
+  font-size: 22px;
+  padding-left: 42px;
+  padding-top: 12px;
+}
+
+.price-num {
+  font-weight: bold;
+  font-size: 24px;
+  letter-spacing: 2px;
+}
+
+.buttom {
+  padding-left: 33px;
+  padding-top: 26px;
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+}
+
+.buttom>span {
+  padding: 11px 20px;
+  background-color: #ffa164;
+}
+
+.case-bottom {
+  width: 579px;
+  height: 2px;
+  margin-left: 1px;
+  margin-top: 41px;
+  background-color: #ff9a03;
+}
